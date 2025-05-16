@@ -40,7 +40,7 @@ Train students and professionals on core cybersecurity practices with a focus on
 - Configure a sample cloud app with access restrictions
 
 **Material:**
-PPT/Notes
+PPT/Notes https://github.com/Amit-Kumar-Jaiswal/Professional-Cybersecurity-Course/blob/main/NEW%20Cloud%20Security%20Principles%20and%20Concepts.pptx
 
 ---
 
@@ -60,7 +60,7 @@ PPT/Notes
 - Simulate a simple phishing attack in a sandbox
 
 **Material:**
-PPT/Notes
+PPT/Notes https://github.com/Amit-Kumar-Jaiswal/Professional-Cybersecurity-Course/blob/main/NEW%20Cyber%20Attack%20Life%20Cycle.pptx
 
 ---
 
@@ -79,7 +79,7 @@ PPT/Notes
 - Set up CI/CD pipeline with security tools (like Snyk)
 
 **Material:**
-PPT/Notes
+PPT/Notes https://github.com/Amit-Kumar-Jaiswal/Professional-Cybersecurity-Course/blob/main/NEW%20Cyber%20Security%20Strategies%20in%20cloud.pptx
 
 ---
 
@@ -97,7 +97,7 @@ PPT/Notes
 - Apply rate limiting rules in AWS/Azure
 
 **Material:**
-PPT/Notes
+PPT/Notes https://github.com/Amit-Kumar-Jaiswal/Professional-Cybersecurity-Course/blob/main/NEW%20Network%20Security%20on%20Cloud.pptx
 
 ---
 
@@ -115,7 +115,7 @@ PPT/Notes
 - Implement Cloudflare on a test site
 
 **Material:**
-PPT/Notes
+PPT/Notes https://github.com/Amit-Kumar-Jaiswal/Professional-Cybersecurity-Course/blob/main/New%20Denial%20of%20Service%20Attacks%20in%20Cloud%20Security.ppt
 
 ---
 
@@ -133,7 +133,7 @@ PPT/Notes
 - Set up network ACLs and flow logs
 
 **Material:**
-PPT/Notes
+PPT/Notes https://github.com/Amit-Kumar-Jaiswal/Professional-Cybersecurity-Course/blob/main/New%20Distributed%20Denial%20of%20Service%20Attacks.ppt
 
 ---
 
